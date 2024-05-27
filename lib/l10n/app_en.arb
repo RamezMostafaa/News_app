@@ -1,0 +1,23 @@
+{
+  "news_app": "News app!",
+  "settings_app_bar": "Settings",
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "category_desc": "Pick your category \n of interest",
+  "business_category": "business",
+  "entertainment_category": "Entertainment",
+  "general_category": "General",
+  "health_category": "Health",
+  "science_category": "Science",
+  "sports_category": "Sports",
+  "technology_category": "Technology",
+  "categories": "categories",
+  "something_went_wrong": "Something Went Wrong!",
+  "try_again": "Try Again",
+  "no_news": "Sorry no news available!",
+  "no_data_to_fetch": "Sorry no more available news!",
+  "search_hint": "search article....",
+  "not_found": "Sorry no results for this search\n Try again",
+  "view_full_article": "View full Articlw"
+}

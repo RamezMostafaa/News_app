@@ -1,0 +1,23 @@
+{
+  "news_app": "قائمة الأخبار",
+  "settings_app_bar": "الإعدادات",
+  "language": "اللغة",
+  "english": "الانجليزية",
+  "arabic": "العربية",
+  "category_desc": "رجاء اختيار فئة محددة \n لعرض الأخبار",
+  "business_category": "أعمال",
+  "entertainment_category": "ترفيه",
+  "general_category": "عام",
+  "health_category": "صحه",
+  "science_category": "علوم",
+  "sports_category": "رياضة",
+  "technology_category": "تكنولوجيا",
+  "categories": "الفئات",
+  "something_went_wrong": "حدث خطأ ما!",
+  "try_again": "حاول مجدداً",
+  "no_news": "عفواً لا توجد أخبار متاحة بعد!",
+  "no_data_to_fetch": "عفواً لا توجد أخبار أخرى!",
+  "search_hint": "ابحث بالموضوع....",
+  "not_found": "عفواً لا توجد نتائج لعملية البحث\n حاول مجدداً",
+  "view_full_article": "تصفح الموضوع كاملاً"
+}
