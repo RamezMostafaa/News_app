@@ -1,5 +1,10 @@
 # news_app
-
+News apps to keep up with local, national, and international news as well as
+entertainment, science ,sports and politics by google news Api., in this app :Search
+Functionality: Easily search for specific news articles or topics. Multilingual
+Support, Customizable Categories: Personalize your news feed by selecting your
+preferred categories. using MVVM pattern, bloc (cubit) state management ,Shared
+preference as a local data storage, dependency inversion
 ![luanch_icon](https://github.com/RamezMostafaa/ToDo-App/assets/163503357/b8effabd-c666-422e-817a-b58e2a6e0a35)
 ![splash_screen](https://github.com/RamezMostafaa/ToDo-App/assets/163503357/d5f71379-4ae1-45fe-b49c-9639177b39d8)
 ![ar_homePage](https://github.com/RamezMostafaa/ToDo-App/assets/163503357/6d064f32-23de-43ea-9334-2d4bf23ccb10)
